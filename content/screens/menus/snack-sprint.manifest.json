@@ -9,11 +9,11 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1688381729832,
+  "timestamp": 1688381856695,
   "entries": [
     {
       "path": "/content/screens/menus/snack-sprint.html",
-      "timestamp": 1687425213000
+      "timestamp": 1688381854993
     },
     {
       "path": "/scripts/lib-franklin.js",
