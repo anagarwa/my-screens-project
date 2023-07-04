@@ -20,7 +20,7 @@ export default async function decorate(block) {
   const getMenuItemsFromPOS = async () => {
     const linkPath = getMetadata('product-data-source');
     const docUrl = new URL(document.URL);
-    const sheetLink = docUrl.origin + linkPath;
+    const sheetLink = linkPath;
     const itemsMap = new Map();
     try {
       const sheetDataResponse = JSON.parse(await fetchData(sheetLink));
