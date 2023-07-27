@@ -18,7 +18,7 @@ const mockNotificationService = 'https://288650-257ambermackerel.adobeio-static.
 const sp = {
     clientApp: {
         auth: {
-            clientId: '2b4aa217-ddcd-4fe0-b09c-5a472764f552',
+            clientId: '0b2504a7-ae7a-4cd3-adab-213f7bfb0c25',
             authority: 'https://login.microsoftonline.com/fa7b1b5a-7b34-4387-94ae-d2c178decee1',
         },
     },
