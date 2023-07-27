@@ -14,6 +14,7 @@ const repoName = 'fcbayern';
 const ref = 'main';
 const path = 'de/spiele/profis/bundesliga/2022-2023/sv-werder-bremen-fc-bayern-muenchen-06-05-2023/liveticker';
 const mockNotificationService = 'https://288650-257ambermackerel.adobeio-static.net/api/v1/web/brandads/getads';
+const test = `abc`;
 
 const sp = {
     clientApp: {
