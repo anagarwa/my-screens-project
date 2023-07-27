@@ -1,8 +1,9 @@
 {
   "project": "Screen Project",
+  "host": "https://main--my-screens-project--anagarwa.hlx.page/",
   "plugins": [
     {
-      "id": "foo1",
+      "id": "foo",
       "title": "quick publish",
       "event": "foo",
       "environments": ["dev", "preview", "live"],
