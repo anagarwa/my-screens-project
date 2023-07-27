@@ -1,11 +1,11 @@
 {
-  "project": "Screen Brands",
+  "project": "Screen Project",
   "plugins": [
     {
       "id": "foo1",
       "title": "quick publish4",
       "event": "foo",
-      "environments": ["dev", "preview", "live","edit"],
+      "environments": ["dev", "preview", "live"],
       "url": "/quick-publish/dist/index.html",
       "includePaths": [ "**.docx**" ]
 
